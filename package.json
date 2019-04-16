@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/duration-of-timeframe",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Resolve timeframe into corresponding momentjs duration",
   "main": "dist/src/duration-of-timeframe.js",
   "types": "dist/src/duration-of-timeframe.d.ts",
