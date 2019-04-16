@@ -39,7 +39,11 @@
     "url": "https://github.com/strong-roots-capital/duration-of-timeframe/issues"
   },
   "homepage": "https://github.com/strong-roots-capital/duration-of-timeframe",
-  "dependencies": {},
+  "dependencies": {
+    "@strong-roots-capital/is-tradingview-format": "^1.2.3",
+    "moment": "^2.24.0",
+    "ow": "^0.12.0"
+  },
   "devDependencies": {
     "@types/node": "^10.14.4",
     "ava": "^1.4.1",

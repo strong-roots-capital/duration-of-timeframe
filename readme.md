@@ -11,14 +11,13 @@ npm install @strong-roots-capital/duration-of-timeframe
 ## Use
 
 ```typescript
-import { durationOfTimeframe } from '@strong-roots-capital/duration-of-timeframe'
-// TODO: describe usage
+import durationOfTimeframe from '@strong-roots-capital/duration-of-timeframe'
+
+console.log(durationOfTimeframe('4H'))
+//=>'hour'
 ```
 
 ## Related
 
-TODO
-
-## Acknowledgments
-
-TODO
+- [is-tradingview-format](https://github.com/strong-roots-capital/is-tradingview-format)
+- [moment](https://github.com/moment/moment)
